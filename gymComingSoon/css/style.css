@@ -1,0 +1,32 @@
+body{
+  background: url("../images/bggymop.jpg") no-repeat center center fixed;
+  background-size: cover;
+  font-family: "Pacifico",cursive;
+}
+div{
+  width: 40%;
+  margin: 100px auto;
+  text-align: center;
+  border-radius: 25px;
+  background-color: #f4ebd0;
+  opacity: 0.7;
+}
+h1,i{
+  font-size: 4em;
+}
+p{
+  font-size: 1.8em;
+}
+button{
+  background-color: grey;
+  padding: 20px;
+  cursor: pointer;
+  font-size: 2em;
+  border-radius: 10px;
+  margin-bottom: 80px;
+  margin-top: 20px;
+}
+button:hover{
+  background-color: orange;
+  color: green;
+}
